@@ -9,6 +9,8 @@ Dextools: https://www.dextools.io/app/en/base/pair-explorer/0x7e6c090c960f78617a
 
 Audits:
 
+https://contractwolf.io/projects/anonfi
+
 https://contractwolf.io/projects/gempad-standard-tokens
 
 https://contractwolf.io/projects/gempad-antibot
