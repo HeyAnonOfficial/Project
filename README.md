@@ -1,7 +1,7 @@
 Gitbook:
 https://anonfi.gitbook.io
 
-ontract: 0x75E6B648c91d222b2f6318E8cEeEd4b691d5323f
+Contract: 0x75E6B648c91d222b2f6318E8cEeEd4b691d5323f
 
 Base Explorer: https://basescan.org/token/0x75e6b648c91d222b2f6318e8ceeed4b691d5323f
 
